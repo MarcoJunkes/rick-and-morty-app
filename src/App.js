@@ -1,7 +1,10 @@
 import React from "react";
+import Card from "./components/card/Card";
 
 function App() {
-  return <p>OK</p>
+  return (
+    <Card />
+  );
 }
 
 export default App;
