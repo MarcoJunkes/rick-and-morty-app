@@ -10,8 +10,8 @@ function Card() {
     };
 
     return (
-        <div className="flex justify-center items-center min-h-screen">
-            <div className="bg-white p-6 mt-10 rounded-lg shadow-lg w-96">
+        <div className="flex justify-center items-center">
+            <div className="bg-white p-6 rounded-lg shadow-lg w-96 mt-5">
                 {/* Primeira div que, ao ser clicada, alterna a exibição */}
                 <div className="text-center cursor-pointer" onClick={toggleDetails}>
                     <span>Ícone</span>
