@@ -33,8 +33,8 @@ O Rick and Morty App é uma aplicação desenvolvida com React que consome a API
 
 # Informações sobre a API
 A aplicação consome dados da Rick and Morty API, uma API RESTful pública que fornece informações detalhadas sobre os personagens, locais e episódios da série.
-**Endpoint utilizado**: `https://rickandmortyapi.com/api/character/`
-**Exemplo de chamada**:
+1. **Endpoint utilizado**: `https://rickandmortyapi.com/api/character/`
+2. **Exemplo de chamada**:
     ```bash
     const url = `https://rickandmortyapi.com/api/character/?name=${nome}`;
     const fetchResponse = await fetch(url);
