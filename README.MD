@@ -12,8 +12,8 @@ O Rick and Morty App é uma aplicação desenvolvida com React que consome a API
         - ***form***: Componente do formulário
         - ***services***: Serviço que consome a API
     - ***App.jsx***: Componente principal do react
-**index.js**: Ponto de entrada do react
-**index.css**: Arquivo principal do css
+    - ***index.js***: Ponto de entrada do react
+    - ***index.css***: Arquivo principal do css
 4. **babelrc**: Arquivo de configuração para o babel
 5. **package.json**: Dependência e scripts do projeto
 6. **tailwind.config.js**: Configuração do TailwindCSS
