@@ -6,12 +6,12 @@ O Rick and Morty App é uma aplicação desenvolvida com React que consome a API
 1. **node_modules**: Aqui se encontram as dependências do projeto
 2. **public**: Arquivos estáticos públicos
 3. **src**: Código fonte do projeto
-**__testes__**: Arquivo de testes unitários
-**components**: Componentes reutilizáveis
-**card**: Componente do card de exibição
-**form**: Componente do formulário
-**services**: Serviço que consome a API
-**App.jsx**: Componente principal do react
+    - ***__tests__***: Arquivo de testes unitários
+    - ***components***: Componentes reutilizáveis
+        - ***card***: Componente do card de exibição
+        - ***form***: Componente do formulário
+        - ***services***: Serviço que consome a API
+    - ***App.jsx***: Componente principal do react
 **index.js**: Ponto de entrada do react
 **index.css**: Arquivo principal do css
 4. **babelrc**: Arquivo de configuração para o babel
