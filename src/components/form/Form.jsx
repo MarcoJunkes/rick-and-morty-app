@@ -5,7 +5,7 @@ function Form({ onSearch }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    onSearch(nome); // Chama a função de busca do App
+    onSearch(nome);
   };
 
   return (
